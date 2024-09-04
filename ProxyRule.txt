@@ -8410,3 +8410,4 @@ ultrasurf
 ||decrypt.day
 ||yecaoyun.com
 ||freedidi.com
+||yezhu.in
