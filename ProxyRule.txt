@@ -14,7 +14,23 @@
 ! contact us regarding URL submission / removal,
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
-
+!----------------my rules----------------
+||silicloud.com
+||phind.com
+||python.org
+||forex.com
+||upi.com
+||afp.com
+||sms-activate.org
+||yahoo.com
+||paypal.com
+||ovocloud.cc
+||torrentmac.net
+||decrypt.day
+||yecaoyun.com
+||freedidi.com
+||yezhu.in
+||cdn.oaistatic.com
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
@@ -8395,19 +8411,4 @@ ultrasurf
 @@|http://ime.baidu.jp
 !################Whitelist End##################
 !---------------------EOF-----------------------
-!----------------my rules----------------
-||silicloud.com
-||phind.com
-||python.org
-||forex.com
-||upi.com
-||afp.com
-||sms-activate.org
-||yahoo.com
-||paypal.com
-||ovocloud.cc
-||torrentmac.net
-||decrypt.day
-||yecaoyun.com
-||freedidi.com
-||yezhu.in
+
