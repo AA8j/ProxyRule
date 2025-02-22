@@ -15,6 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 !----------------my rules----------------
+||x.ai
 ||grok.com
 ||silicloud.com
 ||phind.com
