@@ -35,7 +35,7 @@
 ||yecaoyun.com
 ||freedidi.com
 ||yezhu.in
-||cdn.oaistatic.com
+||oaistatic.com
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
