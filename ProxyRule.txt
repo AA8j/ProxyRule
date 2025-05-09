@@ -15,6 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 !----------------my rules----------------
+||googletagmanager.com
 ||gemini.google
 ||cloudfront.net
 ||notion.so
