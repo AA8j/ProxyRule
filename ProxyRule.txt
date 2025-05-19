@@ -15,7 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 !----------------my rules----------------
-||riskiq.com.com
+||riskiq.com
 ||googletagmanager.com
 ||gemini.google
 ||cloudfront.net
