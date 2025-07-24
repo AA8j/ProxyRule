@@ -15,6 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 !----------------my rules----------------
+||hf.space
 ||arc.net
 ||proxifier.com
 ||openwrt.org
